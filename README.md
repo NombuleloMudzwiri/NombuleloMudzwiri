@@ -1,4 +1,4 @@
-# Hi there😎 , ✨I'm Nombulelo. Welcome to my github profile! <img src="https://octodex.github.com/welcometocat/" width="30px">
+# Hi there😎 , ✨I'm Nombulelo. Welcome to my github profile!  
 
 ###
 
