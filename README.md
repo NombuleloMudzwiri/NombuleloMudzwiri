@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src=" <video src=" Sea Animals Climate Change Video in Blue White Illustrative Style.mp4" controls title="animals"></video> raw=true"  />
+  <video src=" Sea Animals Climate Change Video in Blue White Illustrative Style.mp4" controls title="animals"></video> 
 </div>
 
 ###
@@ -43,7 +43,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"alt="docker logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" width="52" alt="github logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" width="52" alt="sqlite logo"/>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  height="40" width="52" alt="bootstrap logo"/>    
