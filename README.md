@@ -4,10 +4,7 @@
 
 <div align="center">
   <video src=" 
-    
-    ![profile](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/6e79671d-86ba-46a9-af2c-a59e66724c9d)
-
-    " controls title="animals"></video> 
+    ![profile](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/6e79671d-86ba-46a9-af2c-a59e66724c9d) " controls title="animals"></video> 
 </div>
 
 
