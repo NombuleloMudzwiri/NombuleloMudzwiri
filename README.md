@@ -3,8 +3,7 @@
 ###
 
 
-    ![profile](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/6e79671d-86ba-46a9-af2c-a59e66724c9d)
-    
+    [![](https://raw.githubusercontent.com/adamalstonNombuleloMudzwiri/NombuleloMudzwiri/main/profile.gif)]( https://www.veed.io/view/a86b3c9d-696a-465b-ba56-1ef1bc9a1a29?panel=share)
 
 
 
