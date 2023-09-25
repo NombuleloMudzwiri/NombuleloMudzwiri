@@ -2,9 +2,7 @@
 
 
 <div align="center">
-  <video width="750" controls>
-    <source src= "![Sea Animals Climate Change Video in Blue White Illustrative Style](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/2ec94029-9cf2-41fb-a22c-3836f935477d)" type="video/mp4">
-  </video>
+  <img src="![Sea Animals Climate Change Video in Blue White Illustrative Style](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/2ec94029-9cf2-41fb-a22c-3836f935477d).gif" width=750  alt="ANIMATED GIF"/>
 </div>
 
 
