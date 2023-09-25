@@ -1,7 +1,8 @@
 # Hi there😎 , ✨I'm Nombulelo. Welcome to my github profile!  
 
-
-![Sea Animals Climate Change Video in Blue White Illustrative Style](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/2ec94029-9cf2-41fb-a22c-3836f935477d) 
+<div align="center">
+  <img src="![Sea Animals Climate Change Video in Blue White Illustrative Style](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/2ec94029-9cf2-41fb-a22c-3836f935477d)" width=750  alt="stats graph"/>
+</div> 
 
 
 <h2 align="center">About Me</h2>
