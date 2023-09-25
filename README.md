@@ -1,13 +1,7 @@
 # Hi there😎 , ✨I'm Nombulelo. Welcome to my github profile!  
 
-###
+![profile](https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/d99aa24a-9560-4a5d-9187-138bc8601b3c)
 
-
-    [![](https://raw.githubusercontent.com/adamalstonNombuleloMudzwiri/NombuleloMudzwiri/main/profile.gif)]( https://www.veed.io/view/a86b3c9d-696a-465b-ba56-1ef1bc9a1a29?panel=share)
-
-
-
-###
 
 <h2 align="center">About Me</h2>
 
