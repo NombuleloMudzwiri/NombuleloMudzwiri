@@ -58,8 +58,8 @@ https://hub.docker.com/repository/docker/nombulelo99/python-app
 https://hub.docker.com/repository/docker/nombulelo99/task-manager-app/general
 
 
-### My 🌏 Online Resume
- https://github.com/NombuleloMudzwiri/MyCV
+### My 🌏 Online Portfolio
+https://www.hyperiondev.com/portfolio/143553/
 
 ### Connect with me:
 [[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nombulelo-m-84a37323b/)
