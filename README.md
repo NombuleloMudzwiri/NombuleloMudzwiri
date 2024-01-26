@@ -1,5 +1,5 @@
 # Hi there😎 , ✨I'm Nombulelo. Welcome to my github profile!  
-
+ 
 <div align="center">
   <img src= "https://github.com/NombuleloMudzwiri/NombuleloMudzwiri/assets/131011594/2ec94029-9cf2-41fb-a22c-3836f935477d" width="1080" height="450" />
   </div>
